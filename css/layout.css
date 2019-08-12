@@ -24,4 +24,22 @@
 
 /* Positioning Classes */
 
+.column-two-thirds {
+  float: left;
+  width: 66%;
+}
 
+.column-one-third {
+  float: left;
+  width: 32%;
+}
+
+[class*="column-"] {
+  margin-left: 2%;
+  /* margin-top: 10px;
+  margin-bottom: 20px; */
+}
+
+.first-column {
+  margin-left: 0%;
+}
