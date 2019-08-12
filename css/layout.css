@@ -43,10 +43,10 @@
   line-height: 0;
 }
 
-.first-column {
-  margin-left: 0%;
-}
-
 [class*="column-"] {
   margin-left: 2%;
+}
+
+.first-column {
+  margin-left: 0%;
 }
