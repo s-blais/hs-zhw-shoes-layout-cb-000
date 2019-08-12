@@ -45,7 +45,8 @@
 
 [class*="column-"] {
   margin-left: 2%;
-  margin-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .first-column {
