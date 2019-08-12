@@ -47,7 +47,6 @@
   margin-left: 0%;
 }
 
-section {
-  margin: 1%;
-
+[class*="col-"] {
+  margin-left: 1%;
 }
